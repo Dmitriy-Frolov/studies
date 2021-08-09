@@ -1,0 +1,2838 @@
+{
+  "Lines": [
+    {
+      "name": "Сокольническая линия",
+      "number": "1",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Бульвар Рокоссовского",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Бульвар Рокоссовского"
+              }
+            ]
+          },
+          {
+            "number": "2",
+            "name": "Черкизовская",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Локомотив"
+              }
+            ]
+          },
+          {
+            "number": "3",
+            "name": "Преображенская площадь",
+            "connections": []
+          },
+          {
+            "number": "4",
+            "name": "Сокольники",
+            "connections": []
+          },
+          {
+            "number": "5",
+            "name": "Красносельская",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Комсомольская",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Комсомольская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Каланчёвская"
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "name": "Красные ворота",
+            "connections": []
+          },
+          {
+            "number": "8",
+            "name": "Чистые пруды",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Сретенский бульвар"
+              },
+              {
+                "numberLine": "6",
+                "nameStation": "Тургеневская"
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "name": "Лубянка",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Кузнецкий мост"
+              }
+            ]
+          },
+          {
+            "number": "10",
+            "name": "Охотный ряд",
+            "connections": [
+              {
+                "numberLine": "3",
+                "nameStation": "Площадь Революции"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Театральная"
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "name": "Библиотека имени Ленина",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Боровицкая"
+              },
+              {
+                "numberLine": "4",
+                "nameStation": "Александровский сад"
+              },
+              {
+                "numberLine": "3",
+                "nameStation": "Арбатская"
+              }
+            ]
+          },
+          {
+            "number": "12",
+            "name": "Кропоткинская",
+            "connections": []
+          },
+          {
+            "number": "13",
+            "name": "Парк Культуры",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Парк Культуры"
+              }
+            ]
+          },
+          {
+            "number": "14",
+            "name": "Фрунзенская",
+            "connections": []
+          },
+          {
+            "number": "15",
+            "name": "Спортивная",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Лужники"
+              }
+            ]
+          },
+          {
+            "number": "16",
+            "name": "Воробьевы горы",
+            "connections": []
+          },
+          {
+            "number": "17",
+            "name": "Университет",
+            "connections": []
+          },
+          {
+            "number": "18",
+            "name": "Проспект Вернадского",
+            "connections": []
+          },
+          {
+            "number": "19",
+            "name": "Юго-Западная",
+            "connections": []
+          },
+          {
+            "number": "20",
+            "name": "Тропарёво",
+            "connections": []
+          },
+          {
+            "number": "21",
+            "name": "Румянцево",
+            "connections": []
+          },
+          {
+            "number": "22",
+            "name": "Саларьево",
+            "connections": []
+          },
+          {
+            "number": "23",
+            "name": "Филатов Луг",
+            "connections": []
+          },
+          {
+            "number": "24",
+            "name": "Прокшино",
+            "connections": []
+          },
+          {
+            "number": "25",
+            "name": "Ольховая",
+            "connections": []
+          },
+          {
+            "number": "26",
+            "name": "Коммунарка",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Замоскворецкая линия",
+      "number": "2",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Ховрино",
+            "connections": []
+          },
+          {
+            "number": "2",
+            "name": "Беломорская",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Речной вокзал",
+            "connections": []
+          },
+          {
+            "number": "4",
+            "name": "Водный стадион",
+            "connections": []
+          },
+          {
+            "number": "5",
+            "name": "Войковская",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Балтийская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Стрешнево"
+              }
+            ]
+          },
+          {
+            "number": "6",
+            "name": "Сокол",
+            "connections": []
+          },
+          {
+            "number": "7",
+            "name": "Аэропорт",
+            "connections": []
+          },
+          {
+            "number": "8",
+            "name": "Динамо",
+            "connections": [
+              {
+                "numberLine": "11",
+                "nameStation": "Петровский парк"
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "name": "Белорусская",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Белорусская"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Белорусская"
+              }
+            ]
+          },
+          {
+            "number": "10",
+            "name": "Маяковская",
+            "connections": []
+          },
+          {
+            "number": "11",
+            "name": "Тверская",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Чеховская"
+              },
+              {
+                "numberLine": "7",
+                "nameStation": "Пушкинская"
+              }
+            ]
+          },
+          {
+            "number": "12",
+            "name": "Театральная",
+            "connections": [
+              {
+                "numberLine": "3",
+                "nameStation": "Площадь Революции"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Охотный ряд"
+              }
+            ]
+          },
+          {
+            "number": "13",
+            "name": "Новокузнецкая",
+            "connections": [
+              {
+                "numberLine": "8",
+                "nameStation": "Третьяковская"
+              },
+              {
+                "numberLine": "6",
+                "nameStation": "Третьяковская"
+              }
+            ]
+          },
+          {
+            "number": "14",
+            "name": "Павелецкая",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Павелецкая"
+              }
+            ]
+          },
+          {
+            "number": "15",
+            "name": "Автозаводская",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Автозаводская"
+              }
+            ]
+          },
+          {
+            "number": "16",
+            "name": "Технопарк",
+            "connections": []
+          },
+          {
+            "number": "17",
+            "name": "Коломенская",
+            "connections": []
+          },
+          {
+            "number": "18",
+            "name": "Каширская",
+            "connections": [
+              {
+                "numberLine": "11",
+                "nameStation": "Каширская"
+              }
+            ]
+          },
+          {
+            "number": "19",
+            "name": "Кантемировская",
+            "connections": []
+          },
+          {
+            "number": "20",
+            "name": "Царицыно",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Царицыно"
+              }
+            ]
+          },
+          {
+            "number": "21",
+            "name": "Орехово",
+            "connections": []
+          },
+          {
+            "number": "22",
+            "name": "Домодедовская",
+            "connections": []
+          },
+          {
+            "number": "23",
+            "name": "Красногвардейская",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Зябликово"
+              }
+            ]
+          },
+          {
+            "number": "24",
+            "name": "Алма-Атинская",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Арбатско-Покровская линия",
+      "number": "3",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Пятницкое шоссе",
+            "connections": []
+          },
+          {
+            "number": "2",
+            "name": "Митино",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Волоколамская",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Волоколамская"
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "name": "Мякинино",
+            "connections": []
+          },
+          {
+            "number": "5",
+            "name": "Строгино",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Крылатское",
+            "connections": []
+          },
+          {
+            "number": "7",
+            "name": "Молодежная",
+            "connections": []
+          },
+          {
+            "number": "8",
+            "name": "Кунцевская",
+            "connections": [
+              {
+                "numberLine": "4",
+                "nameStation": "Кунцевская"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Кунцево"
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "name": "Славянский бульвар",
+            "connections": [
+              {
+                "numberLine": "1",
+                "nameStation": "Славянский бульвар"
+              }
+            ]
+          },
+          {
+            "number": "10",
+            "name": "Парк Победы",
+            "connections": [
+              {
+                "numberLine": "8",
+                "nameStation": "Парк Победы"
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "name": "Киевская",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Киевская"
+              },
+              {
+                "numberLine": "4",
+                "nameStation": "Киевская"
+              }
+            ]
+          },
+          {
+            "number": "12",
+            "name": "Смоленская",
+            "connections": []
+          },
+          {
+            "number": "13",
+            "name": "Арбатская",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Боровицкая"
+              },
+              {
+                "numberLine": "4",
+                "nameStation": "Александровский сад"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Библиотека имени Ленина"
+              }
+            ]
+          },
+          {
+            "number": "14",
+            "name": "Площадь Революции",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Театральная"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Охотный ряд"
+              }
+            ]
+          },
+          {
+            "number": "15",
+            "name": "Курская",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Чкаловская"
+              },
+              {
+                "numberLine": "5",
+                "nameStation": "Курская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Курская"
+              }
+            ]
+          },
+          {
+            "number": "16",
+            "name": "Бауманская",
+            "connections": []
+          },
+          {
+            "number": "17",
+            "name": "Электрозаводская",
+            "connections": [
+              {
+                "numberLine": "15",
+                "nameStation": "Электрозаводская"
+              }
+            ]
+          },
+          {
+            "number": "18",
+            "name": "Семеновская",
+            "connections": []
+          },
+          {
+            "number": "19",
+            "name": "Партизанская",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Измайлово"
+              }
+            ]
+          },
+          {
+            "number": "20",
+            "name": "Измайловская",
+            "connections": []
+          },
+          {
+            "number": "21",
+            "name": "Первомайская",
+            "connections": []
+          },
+          {
+            "number": "22",
+            "name": "Щелковская",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Филевская линия",
+      "number": "4",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Александровский сад",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Боровицкая"
+              },
+              {
+                "numberLine": "3",
+                "nameStation": "Арбатская"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Библиотека имени Ленина"
+              }
+            ]
+          },
+          {
+            "number": "2",
+            "name": "Арбатская",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Смоленская",
+            "connections": []
+          },
+          {
+            "number": "4",
+            "name": "Киевская",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Киевская"
+              },
+              {
+                "numberLine": "3",
+                "nameStation": "Киевская"
+              }
+            ]
+          },
+          {
+            "number": "5",
+            "name": "Студенческая",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Кутузовская",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Кутузовская"
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "name": "Фили",
+            "connections": [
+              {
+                "numberLine": "1",
+                "nameStation": "Фили"
+              }
+            ]
+          },
+          {
+            "number": "8",
+            "name": "Багратионовская",
+            "connections": []
+          },
+          {
+            "number": "9",
+            "name": "Филевский парк",
+            "connections": []
+          },
+          {
+            "number": "10",
+            "name": "Пионерская",
+            "connections": []
+          },
+          {
+            "number": "11",
+            "name": "Кунцевская",
+            "connections": [
+              {
+                "numberLine": "3",
+                "nameStation": "Кунцевская"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Кунцево"
+              }
+            ]
+          },
+          {
+            "number": "12",
+            "name": "Выставочная",
+            "connections": [
+              {
+                "numberLine": "11",
+                "nameStation": "Деловой центр"
+              },
+              {
+                "numberLine": "8",
+                "nameStation": "Деловой центр"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Тестовская"
+              }
+            ]
+          },
+          {
+            "number": "13",
+            "name": "Международная",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Деловой центр"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Тестовская"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Кольцевая линия",
+      "number": "5",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Киевская",
+            "connections": [
+              {
+                "numberLine": "4",
+                "nameStation": "Киевская"
+              },
+              {
+                "numberLine": "3",
+                "nameStation": "Киевская"
+              }
+            ]
+          },
+          {
+            "number": "2",
+            "name": "Парк Культуры",
+            "connections": [
+              {
+                "numberLine": "1",
+                "nameStation": "Парк Культуры"
+              }
+            ]
+          },
+          {
+            "number": "3",
+            "name": "Октябрьская",
+            "connections": [
+              {
+                "numberLine": "6",
+                "nameStation": "Октябрьская"
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "name": "Добрынинская",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Серпуховская"
+              }
+            ]
+          },
+          {
+            "number": "5",
+            "name": "Павелецкая",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Павелецкая"
+              }
+            ]
+          },
+          {
+            "number": "6",
+            "name": "Таганская",
+            "connections": [
+              {
+                "numberLine": "8",
+                "nameStation": "Марксистская"
+              },
+              {
+                "numberLine": "7",
+                "nameStation": "Таганская"
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "name": "Курская",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Чкаловская"
+              },
+              {
+                "numberLine": "3",
+                "nameStation": "Курская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Курская"
+              }
+            ]
+          },
+          {
+            "number": "8",
+            "name": "Комсомольская",
+            "connections": [
+              {
+                "numberLine": "1",
+                "nameStation": "Комсомольская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Каланчёвская"
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "name": "Проспект Мира",
+            "connections": [
+              {
+                "numberLine": "6",
+                "nameStation": "Проспект Мира"
+              }
+            ]
+          },
+          {
+            "number": "10",
+            "name": "Новослободская",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Менделеевская"
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "name": "Белорусская",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Белорусская"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Белорусская"
+              }
+            ]
+          },
+          {
+            "number": "12",
+            "name": "Краснопресненская",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Баррикадная"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Калужско-Рижская линия",
+      "number": "6",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Новоясеневская",
+            "connections": [
+              {
+                "numberLine": "12",
+                "nameStation": "Битцевский парк"
+              }
+            ]
+          },
+          {
+            "number": "2",
+            "name": "Ясенево",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Теплый стан",
+            "connections": []
+          },
+          {
+            "number": "4",
+            "name": "Коньково",
+            "connections": []
+          },
+          {
+            "number": "5",
+            "name": "Беляево",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Калужская",
+            "connections": []
+          },
+          {
+            "number": "7",
+            "name": "Новые Черёмушки",
+            "connections": []
+          },
+          {
+            "number": "8",
+            "name": "Профсоюзная",
+            "connections": []
+          },
+          {
+            "number": "9",
+            "name": "Академическая",
+            "connections": []
+          },
+          {
+            "number": "10",
+            "name": "Ленинский проспект",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Площадь Гагарина"
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "name": "Шаболовская",
+            "connections": []
+          },
+          {
+            "number": "12",
+            "name": "Октябрьская",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Октябрьская"
+              }
+            ]
+          },
+          {
+            "number": "13",
+            "name": "Третьяковская",
+            "connections": [
+              {
+                "numberLine": "8",
+                "nameStation": "Третьяковская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Новокузнецкая"
+              }
+            ]
+          },
+          {
+            "number": "14",
+            "name": "Китай-город",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Китай-город"
+              }
+            ]
+          },
+          {
+            "number": "15",
+            "name": "Тургеневская",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Сретенский бульвар"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Чистые пруды"
+              }
+            ]
+          },
+          {
+            "number": "16",
+            "name": "Сухаревская",
+            "connections": []
+          },
+          {
+            "number": "17",
+            "name": "Проспект Мира",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Проспект Мира"
+              }
+            ]
+          },
+          {
+            "number": "18",
+            "name": "Рижская",
+            "connections": []
+          },
+          {
+            "number": "19",
+            "name": "Алексеевская",
+            "connections": []
+          },
+          {
+            "number": "20",
+            "name": "ВДНХ",
+            "connections": []
+          },
+          {
+            "number": "21",
+            "name": "Ботанический сад",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Ботанический Сад"
+              }
+            ]
+          },
+          {
+            "number": "22",
+            "name": "Свиблово",
+            "connections": []
+          },
+          {
+            "number": "23",
+            "name": "Бабушкинская",
+            "connections": []
+          },
+          {
+            "number": "24",
+            "name": "Медведково",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Таганско-Краснопресненская линия",
+      "number": "7",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Котельники",
+            "connections": []
+          },
+          {
+            "number": "2",
+            "name": "Жулебино",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Лермонтовский проспект",
+            "connections": [
+              {
+                "numberLine": "15",
+                "nameStation": "Косино"
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "name": "Выхино",
+            "connections": []
+          },
+          {
+            "number": "5",
+            "name": "Рязанский проспект",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Кузьминки",
+            "connections": []
+          },
+          {
+            "number": "7",
+            "name": "Текстильщики",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Текстильщики"
+              }
+            ]
+          },
+          {
+            "number": "8",
+            "name": "Волгоградский проспект",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Угрешская"
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "name": "Пролетарская",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Крестьянская застава"
+              }
+            ]
+          },
+          {
+            "number": "10",
+            "name": "Таганская",
+            "connections": [
+              {
+                "numberLine": "8",
+                "nameStation": "Марксистская"
+              },
+              {
+                "numberLine": "5",
+                "nameStation": "Таганская"
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "name": "Китай-город",
+            "connections": [
+              {
+                "numberLine": "6",
+                "nameStation": "Китай-город"
+              }
+            ]
+          },
+          {
+            "number": "12",
+            "name": "Кузнецкий мост",
+            "connections": [
+              {
+                "numberLine": "1",
+                "nameStation": "Лубянка"
+              }
+            ]
+          },
+          {
+            "number": "13",
+            "name": "Пушкинская",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Чеховская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Тверская"
+              }
+            ]
+          },
+          {
+            "number": "14",
+            "name": "Баррикадная",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Краснопресненская"
+              }
+            ]
+          },
+          {
+            "number": "15",
+            "name": "Улица 1905 года",
+            "connections": []
+          },
+          {
+            "number": "16",
+            "name": "Беговая",
+            "connections": [
+              {
+                "numberLine": "1",
+                "nameStation": "Беговая"
+              }
+            ]
+          },
+          {
+            "number": "17",
+            "name": "Полежаевская",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Хорошёво"
+              },
+              {
+                "numberLine": "11",
+                "nameStation": "Хорошёвская"
+              }
+            ]
+          },
+          {
+            "number": "18",
+            "name": "Октябрьское Поле",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Зорге"
+              },
+              {
+                "numberLine": "14",
+                "nameStation": "Панфиловская"
+              }
+            ]
+          },
+          {
+            "number": "19",
+            "name": "Щукинская",
+            "connections": []
+          },
+          {
+            "number": "20",
+            "name": "Спартак",
+            "connections": []
+          },
+          {
+            "number": "21",
+            "name": "Тушинская",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Тушино"
+              }
+            ]
+          },
+          {
+            "number": "22",
+            "name": "Сходненская",
+            "connections": []
+          },
+          {
+            "number": "23",
+            "name": "Планерная",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Калининско-Солнцевская линия",
+      "number": "8",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Новокосино",
+            "connections": []
+          },
+          {
+            "number": "2",
+            "name": "Новогиреево",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Перово",
+            "connections": []
+          },
+          {
+            "number": "4",
+            "name": "Шоссе Энтузиастов",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Шоссе Энтузиастов"
+              }
+            ]
+          },
+          {
+            "number": "5",
+            "name": "Авиамоторная",
+            "connections": [
+              {
+                "numberLine": "15",
+                "nameStation": "Авиамоторная"
+              }
+            ]
+          },
+          {
+            "number": "6",
+            "name": "Площадь Ильича",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Римская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Москва Товарная"
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "name": "Марксистская",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Таганская"
+              },
+              {
+                "numberLine": "5",
+                "nameStation": "Таганская"
+              }
+            ]
+          },
+          {
+            "number": "8",
+            "name": "Третьяковская",
+            "connections": [
+              {
+                "numberLine": "6",
+                "nameStation": "Третьяковская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Новокузнецкая"
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "name": "Деловой центр",
+            "connections": [
+              {
+                "numberLine": "11",
+                "nameStation": "Деловой центр"
+              },
+              {
+                "numberLine": "4",
+                "nameStation": "Выставочная"
+              }
+            ]
+          },
+          {
+            "number": "10",
+            "name": "Парк Победы",
+            "connections": [
+              {
+                "numberLine": "3",
+                "nameStation": "Парк Победы"
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "name": "Минская",
+            "connections": []
+          },
+          {
+            "number": "12",
+            "name": "Ломоносовский проспект",
+            "connections": []
+          },
+          {
+            "number": "13",
+            "name": "Раменки",
+            "connections": []
+          },
+          {
+            "number": "14",
+            "name": "Мичуринский проспект",
+            "connections": []
+          },
+          {
+            "number": "15",
+            "name": "Озёрная",
+            "connections": []
+          },
+          {
+            "number": "16",
+            "name": "Говорово",
+            "connections": []
+          },
+          {
+            "number": "17",
+            "name": "Солнцево",
+            "connections": []
+          },
+          {
+            "number": "18",
+            "name": "Боровское шоссе",
+            "connections": []
+          },
+          {
+            "number": "19",
+            "name": "Новопеределкино",
+            "connections": []
+          },
+          {
+            "number": "20",
+            "name": "Рассказовка",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Серпуховско-Тимирязевская линия",
+      "number": "9",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Бульвар Дмитрия Донского",
+            "connections": [
+              {
+                "numberLine": "12",
+                "nameStation": "Улица Старокачаловская"
+              }
+            ]
+          },
+          {
+            "number": "2",
+            "name": "Аннино",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Улица академика Янгеля",
+            "connections": []
+          },
+          {
+            "number": "4",
+            "name": "Пражская",
+            "connections": []
+          },
+          {
+            "number": "5",
+            "name": "Южная",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Чертановская",
+            "connections": []
+          },
+          {
+            "number": "7",
+            "name": "Севастопольская",
+            "connections": []
+          },
+          {
+            "number": "8",
+            "name": "Нахимовский Проспект",
+            "connections": []
+          },
+          {
+            "number": "9",
+            "name": "Нагорная",
+            "connections": []
+          },
+          {
+            "number": "10",
+            "name": "Нагатинская",
+            "connections": []
+          },
+          {
+            "number": "11",
+            "name": "Тульская",
+            "connections": []
+          },
+          {
+            "number": "12",
+            "name": "Серпуховская",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Добрынинская"
+              }
+            ]
+          },
+          {
+            "number": "13",
+            "name": "Полянка",
+            "connections": []
+          },
+          {
+            "number": "14",
+            "name": "Боровицкая",
+            "connections": [
+              {
+                "numberLine": "4",
+                "nameStation": "Александровский сад"
+              },
+              {
+                "numberLine": "3",
+                "nameStation": "Арбатская"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Библиотека имени Ленина"
+              }
+            ]
+          },
+          {
+            "number": "15",
+            "name": "Чеховская",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Пушкинская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Тверская"
+              }
+            ]
+          },
+          {
+            "number": "16",
+            "name": "Цветной бульвар",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Трубная"
+              }
+            ]
+          },
+          {
+            "number": "17",
+            "name": "Менделеевская",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Новослободская"
+              }
+            ]
+          },
+          {
+            "number": "18",
+            "name": "Савеловская",
+            "connections": [
+              {
+                "numberLine": "11",
+                "nameStation": "Савёловская"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Савёловская"
+              }
+            ]
+          },
+          {
+            "number": "19",
+            "name": "Дмитровская",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Дмитровская"
+              }
+            ]
+          },
+          {
+            "number": "20",
+            "name": "Тимирязевская",
+            "connections": [
+              {
+                "numberLine": "1",
+                "nameStation": "Тимирязевская"
+              }
+            ]
+          },
+          {
+            "number": "21",
+            "name": "Петровско-Разумовская",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Петровско-Разумовская"
+              }
+            ]
+          },
+          {
+            "number": "22",
+            "name": "Владыкино",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Владыкино"
+              }
+            ]
+          },
+          {
+            "number": "23",
+            "name": "Отрадное",
+            "connections": []
+          },
+          {
+            "number": "24",
+            "name": "Бибирево",
+            "connections": []
+          },
+          {
+            "number": "25",
+            "name": "Алтуфьево",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Люблинско-Дмитровская линия",
+      "number": "10",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Зябликово",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Красногвардейская"
+              }
+            ]
+          },
+          {
+            "number": "2",
+            "name": "Шипиловская",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Борисово",
+            "connections": []
+          },
+          {
+            "number": "4",
+            "name": "Марьино",
+            "connections": []
+          },
+          {
+            "number": "5",
+            "name": "Братиславская",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Люблино",
+            "connections": []
+          },
+          {
+            "number": "7",
+            "name": "Волжская",
+            "connections": []
+          },
+          {
+            "number": "8",
+            "name": "Печатники",
+            "connections": []
+          },
+          {
+            "number": "9",
+            "name": "Кожуховская",
+            "connections": []
+          },
+          {
+            "number": "10",
+            "name": "Дубровка",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Дубровка"
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "name": "Крестьянская застава",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Пролетарская"
+              }
+            ]
+          },
+          {
+            "number": "12",
+            "name": "Римская",
+            "connections": [
+              {
+                "numberLine": "8",
+                "nameStation": "Площадь Ильича"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Москва Товарная"
+              }
+            ]
+          },
+          {
+            "number": "13",
+            "name": "Чкаловская",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Курская"
+              },
+              {
+                "numberLine": "3",
+                "nameStation": "Курская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Курская"
+              }
+            ]
+          },
+          {
+            "number": "14",
+            "name": "Сретенский бульвар",
+            "connections": [
+              {
+                "numberLine": "6",
+                "nameStation": "Тургеневская"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Чистые пруды"
+              }
+            ]
+          },
+          {
+            "number": "15",
+            "name": "Трубная",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Цветной бульвар"
+              }
+            ]
+          },
+          {
+            "number": "16",
+            "name": "Достоевская",
+            "connections": []
+          },
+          {
+            "number": "17",
+            "name": "Марьина роща",
+            "connections": []
+          },
+          {
+            "number": "18",
+            "name": "Бутырская",
+            "connections": []
+          },
+          {
+            "number": "19",
+            "name": "Фонвизинская",
+            "connections": []
+          },
+          {
+            "number": "20",
+            "name": "Петровско-Разумовская",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Петровско-Разумовская"
+              }
+            ]
+          },
+          {
+            "number": "21",
+            "name": "Окружная",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Окружная"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Окружная"
+              }
+            ]
+          },
+          {
+            "number": "22",
+            "name": "Верхние Лихоборы",
+            "connections": []
+          },
+          {
+            "number": "23",
+            "name": "Селигерская",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Большая Кольцевая Линия",
+      "number": "11",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Савёловская",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Савеловская"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Савёловская"
+              }
+            ]
+          },
+          {
+            "number": "2",
+            "name": "Петровский парк",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Динамо"
+              }
+            ]
+          },
+          {
+            "number": "3",
+            "name": "ЦСКА",
+            "connections": []
+          },
+          {
+            "number": "4",
+            "name": "Хорошёвская",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Хорошёво"
+              },
+              {
+                "numberLine": "7",
+                "nameStation": "Полежаевская"
+              }
+            ]
+          },
+          {
+            "number": "5",
+            "name": "Шелепиха",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Шелепиха"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Тестовская"
+              }
+            ]
+          },
+          {
+            "number": "6",
+            "name": "Деловой центр",
+            "connections": [
+              {
+                "numberLine": "8",
+                "nameStation": "Деловой центр"
+              },
+              {
+                "numberLine": "4",
+                "nameStation": "Выставочная"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Тестовская"
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "name": "Народное Ополчение",
+            "connections": []
+          },
+          {
+            "number": "8",
+            "name": "Мнёвники",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Каховская линия",
+      "number": "11A",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Каховская",
+            "connections": []
+          },
+          {
+            "number": "2",
+            "name": "Варшавская",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Каширская",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Каширская"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Бутовская линия",
+      "number": "12",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Битцевский парк",
+            "connections": [
+              {
+                "numberLine": "6",
+                "nameStation": "Новоясеневская"
+              }
+            ]
+          },
+          {
+            "number": "2",
+            "name": "Лесопарковая",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Улица Старокачаловская",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Бульвар Дмитрия Донского"
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "name": "Улица Скобелевская",
+            "connections": []
+          },
+          {
+            "number": "5",
+            "name": "Бульвар адмирала Ушакова",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Улица Горчакова",
+            "connections": []
+          },
+          {
+            "number": "7",
+            "name": "Бунинская Аллея",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Центральное Кольцо",
+      "number": "14",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Окружная",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Окружная"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Окружная"
+              }
+            ]
+          },
+          {
+            "number": "2",
+            "name": "Владыкино",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Владыкино"
+              }
+            ]
+          },
+          {
+            "number": "3",
+            "name": "Ботанический Сад",
+            "connections": [
+              {
+                "numberLine": "6",
+                "nameStation": "Ботанический сад"
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "name": "Ростокино",
+            "connections": []
+          },
+          {
+            "number": "5",
+            "name": "Белокаменная",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Бульвар Рокоссовского",
+            "connections": [
+              {
+                "numberLine": "1",
+                "nameStation": "Бульвар Рокоссовского"
+              }
+            ]
+          },
+          {
+            "number": "7",
+            "name": "Локомотив",
+            "connections": [
+              {
+                "numberLine": "1",
+                "nameStation": "Черкизовская"
+              }
+            ]
+          },
+          {
+            "number": "8",
+            "name": "Измайлово",
+            "connections": [
+              {
+                "numberLine": "3",
+                "nameStation": "Партизанская"
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "name": "Соколиная Гора",
+            "connections": []
+          },
+          {
+            "number": "10",
+            "name": "Шоссе Энтузиастов",
+            "connections": [
+              {
+                "numberLine": "8",
+                "nameStation": "Шоссе Энтузиастов"
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "name": "Андроновка",
+            "connections": []
+          },
+          {
+            "number": "12",
+            "name": "Нижегородская",
+            "connections": [
+              {
+                "numberLine": "15",
+                "nameStation": "Нижегородская"
+              }
+            ]
+          },
+          {
+            "number": "13",
+            "name": "Новохохловская",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Новохохловская"
+              }
+            ]
+          },
+          {
+            "number": "14",
+            "name": "Угрешская",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Волгоградский проспект"
+              }
+            ]
+          },
+          {
+            "number": "15",
+            "name": "Дубровка",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Дубровка"
+              }
+            ]
+          },
+          {
+            "number": "16",
+            "name": "Автозаводская",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Автозаводская"
+              }
+            ]
+          },
+          {
+            "number": "17",
+            "name": "ЗИЛ",
+            "connections": []
+          },
+          {
+            "number": "18",
+            "name": "Верхние Котлы",
+            "connections": []
+          },
+          {
+            "number": "19",
+            "name": "Крымская",
+            "connections": []
+          },
+          {
+            "number": "20",
+            "name": "Площадь Гагарина",
+            "connections": [
+              {
+                "numberLine": "6",
+                "nameStation": "Ленинский проспект"
+              }
+            ]
+          },
+          {
+            "number": "21",
+            "name": "Лужники",
+            "connections": [
+              {
+                "numberLine": "1",
+                "nameStation": "Спортивная"
+              }
+            ]
+          },
+          {
+            "number": "22",
+            "name": "Кутузовская",
+            "connections": [
+              {
+                "numberLine": "4",
+                "nameStation": "Кутузовская"
+              }
+            ]
+          },
+          {
+            "number": "23",
+            "name": "Деловой центр",
+            "connections": [
+              {
+                "numberLine": "4",
+                "nameStation": "Международная"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Тестовская"
+              }
+            ]
+          },
+          {
+            "number": "24",
+            "name": "Шелепиха",
+            "connections": [
+              {
+                "numberLine": "11",
+                "nameStation": "Шелепиха"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Тестовская"
+              }
+            ]
+          },
+          {
+            "number": "25",
+            "name": "Хорошёво",
+            "connections": [
+              {
+                "numberLine": "11",
+                "nameStation": "Хорошёвская"
+              },
+              {
+                "numberLine": "7",
+                "nameStation": "Полежаевская"
+              }
+            ]
+          },
+          {
+            "number": "26",
+            "name": "Зорге",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Октябрьское Поле"
+              }
+            ]
+          },
+          {
+            "number": "27",
+            "name": "Панфиловская",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Октябрьское Поле"
+              }
+            ]
+          },
+          {
+            "number": "28",
+            "name": "Стрешнево",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Стрешнево"
+              }
+            ]
+          },
+          {
+            "number": "29",
+            "name": "Балтийская",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Войковская"
+              }
+            ]
+          },
+          {
+            "number": "30",
+            "name": "Коптево",
+            "connections": []
+          },
+          {
+            "number": "31",
+            "name": "Лихоборы",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Некрасовская линия",
+      "number": "15",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Электрозаводская",
+            "connections": [
+              {
+                "numberLine": "3",
+                "nameStation": "Электрозаводская"
+              }
+            ]
+          },
+          {
+            "number": "2",
+            "name": "Лефортово",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Авиамоторная",
+            "connections": [
+              {
+                "numberLine": "8",
+                "nameStation": "Авиамоторная"
+              }
+            ]
+          },
+          {
+            "number": "4",
+            "name": "Нижегородская",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Нижегородская"
+              }
+            ]
+          },
+          {
+            "number": "5",
+            "name": "Стахановская",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Окская",
+            "connections": []
+          },
+          {
+            "number": "7",
+            "name": "Юго-Восточная",
+            "connections": []
+          },
+          {
+            "number": "8",
+            "name": "Косино",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Лермонтовский проспект"
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "name": "Улица Дмитриевского",
+            "connections": []
+          },
+          {
+            "number": "10",
+            "name": "Лухмановская",
+            "connections": []
+          },
+          {
+            "number": "11",
+            "name": "Некрасовка",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "МЦД-1",
+      "number": "D1",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Одинцово",
+            "connections": []
+          },
+          {
+            "number": "2",
+            "name": "Баковка",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Сколково",
+            "connections": []
+          },
+          {
+            "number": "4",
+            "name": "Немчиновка",
+            "connections": []
+          },
+          {
+            "number": "5",
+            "name": "Сетунь",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Рабочий Посёлок",
+            "connections": []
+          },
+          {
+            "number": "7",
+            "name": "Кунцево",
+            "connections": [
+              {
+                "numberLine": "4",
+                "nameStation": "Кунцевская"
+              },
+              {
+                "numberLine": "3",
+                "nameStation": "Кунцевская"
+              }
+            ]
+          },
+          {
+            "number": "8",
+            "name": "Славянский бульвар",
+            "connections": [
+              {
+                "numberLine": "3",
+                "nameStation": "Славянский бульвар"
+              }
+            ]
+          },
+          {
+            "number": "9",
+            "name": "Фили",
+            "connections": [
+              {
+                "numberLine": "4",
+                "nameStation": "Фили"
+              }
+            ]
+          },
+          {
+            "number": "10",
+            "name": "Тестовская",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Шелепиха"
+              },
+              {
+                "numberLine": "14",
+                "nameStation": "Деловой центр"
+              },
+              {
+                "numberLine": "11",
+                "nameStation": "Шелепиха"
+              },
+              {
+                "numberLine": "11",
+                "nameStation": "Деловой центр"
+              },
+              {
+                "numberLine": "4",
+                "nameStation": "Выставочная"
+              },
+              {
+                "numberLine": "4",
+                "nameStation": "Международная"
+              }
+            ]
+          },
+          {
+            "number": "11",
+            "name": "Беговая",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Беговая"
+              }
+            ]
+          },
+          {
+            "number": "12",
+            "name": "Белорусская",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Белорусская"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Белорусская"
+              }
+            ]
+          },
+          {
+            "number": "13",
+            "name": "Савёловская",
+            "connections": [
+              {
+                "numberLine": "11",
+                "nameStation": "Савёловская"
+              },
+              {
+                "numberLine": "9",
+                "nameStation": "Савеловская"
+              }
+            ]
+          },
+          {
+            "number": "14",
+            "name": "Тимирязевская",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Тимирязевская"
+              }
+            ]
+          },
+          {
+            "number": "15",
+            "name": "Окружная",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Окружная"
+              },
+              {
+                "numberLine": "10",
+                "nameStation": "Окружная"
+              }
+            ]
+          },
+          {
+            "number": "16",
+            "name": "Дегунино",
+            "connections": []
+          },
+          {
+            "number": "17",
+            "name": "Бескудниково",
+            "connections": []
+          },
+          {
+            "number": "18",
+            "name": "Лианозово",
+            "connections": []
+          },
+          {
+            "number": "19",
+            "name": "Марк",
+            "connections": []
+          },
+          {
+            "number": "20",
+            "name": "Новодачная",
+            "connections": []
+          },
+          {
+            "number": "21",
+            "name": "Долгопрудная",
+            "connections": []
+          },
+          {
+            "number": "22",
+            "name": "Водники",
+            "connections": []
+          },
+          {
+            "number": "23",
+            "name": "Хлебниково",
+            "connections": []
+          },
+          {
+            "number": "24",
+            "name": "Шереметьевская",
+            "connections": []
+          },
+          {
+            "number": "25",
+            "name": "Лобня",
+            "connections": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "МЦД-2",
+      "number": "D2",
+      "stations": [
+        [
+          {
+            "number": "1",
+            "name": "Нахабино",
+            "connections": []
+          },
+          {
+            "number": "2",
+            "name": "Аникеевка",
+            "connections": []
+          },
+          {
+            "number": "3",
+            "name": "Опалиха",
+            "connections": []
+          },
+          {
+            "number": "4",
+            "name": "Красногорская",
+            "connections": []
+          },
+          {
+            "number": "5",
+            "name": "Павшино",
+            "connections": []
+          },
+          {
+            "number": "6",
+            "name": "Пенягино",
+            "connections": []
+          },
+          {
+            "number": "7",
+            "name": "Волоколамская",
+            "connections": [
+              {
+                "numberLine": "3",
+                "nameStation": "Волоколамская"
+              }
+            ]
+          },
+          {
+            "number": "8",
+            "name": "Трикотажная",
+            "connections": []
+          },
+          {
+            "number": "9",
+            "name": "Тушино",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Тушинская"
+              }
+            ]
+          },
+          {
+            "number": "10",
+            "name": "Щукинская",
+            "connections": []
+          },
+          {
+            "number": "11",
+            "name": "Стрешнево",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Стрешнево"
+              },
+              {
+                "numberLine": "2",
+                "nameStation": "Войковская"
+              }
+            ]
+          },
+          {
+            "number": "12",
+            "name": "Красный Балтиец",
+            "connections": []
+          },
+          {
+            "number": "13",
+            "name": "Гражданская",
+            "connections": []
+          },
+          {
+            "number": "14",
+            "name": "Дмитровская",
+            "connections": [
+              {
+                "numberLine": "9",
+                "nameStation": "Дмитровская"
+              }
+            ]
+          },
+          {
+            "number": "15",
+            "name": "Рижская",
+            "connections": []
+          },
+          {
+            "number": "16",
+            "name": "Каланчёвская",
+            "connections": [
+              {
+                "numberLine": "5",
+                "nameStation": "Комсомольская"
+              },
+              {
+                "numberLine": "1",
+                "nameStation": "Комсомольская"
+              }
+            ]
+          },
+          {
+            "number": "17",
+            "name": "Курская",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Чкаловская"
+              },
+              {
+                "numberLine": "5",
+                "nameStation": "Курская"
+              },
+              {
+                "numberLine": "3",
+                "nameStation": "Курская"
+              }
+            ]
+          },
+          {
+            "number": "18",
+            "name": "Москва Товарная",
+            "connections": [
+              {
+                "numberLine": "10",
+                "nameStation": "Римская"
+              },
+              {
+                "numberLine": "8",
+                "nameStation": "Площадь Ильича"
+              }
+            ]
+          },
+          {
+            "number": "19",
+            "name": "Калитники",
+            "connections": []
+          },
+          {
+            "number": "20",
+            "name": "Новохохловская",
+            "connections": [
+              {
+                "numberLine": "14",
+                "nameStation": "Новохохловская"
+              }
+            ]
+          },
+          {
+            "number": "21",
+            "name": "Текстильщики",
+            "connections": [
+              {
+                "numberLine": "7",
+                "nameStation": "Текстильщики"
+              }
+            ]
+          },
+          {
+            "number": "22",
+            "name": "Кубанская",
+            "connections": []
+          },
+          {
+            "number": "23",
+            "name": "Депо",
+            "connections": []
+          },
+          {
+            "number": "24",
+            "name": "Перерва",
+            "connections": []
+          },
+          {
+            "number": "25",
+            "name": "Курьяново",
+            "connections": []
+          },
+          {
+            "number": "26",
+            "name": "Москворечье",
+            "connections": []
+          },
+          {
+            "number": "27",
+            "name": "Царицыно",
+            "connections": [
+              {
+                "numberLine": "2",
+                "nameStation": "Царицыно"
+              }
+            ]
+          },
+          {
+            "number": "28",
+            "name": "Покровская",
+            "connections": []
+          },
+          {
+            "number": "29",
+            "name": "Красный Строитель",
+            "connections": []
+          },
+          {
+            "number": "30",
+            "name": "Битца",
+            "connections": []
+          },
+          {
+            "number": "31",
+            "name": "Бутово",
+            "connections": []
+          },
+          {
+            "number": "32",
+            "name": "Щербинка",
+            "connections": []
+          },
+          {
+            "number": "33",
+            "name": "Остафьево",
+            "connections": []
+          },
+          {
+            "number": "34",
+            "name": "Силикатная",
+            "connections": []
+          },
+          {
+            "number": "35",
+            "name": "Подольск",
+            "connections": []
+          }
+        ]
+      ]
+    }
+  ]
+}

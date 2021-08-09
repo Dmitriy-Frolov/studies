@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Airport/LambdaExpressions7.2-Airport.iml" filepath="$PROJECT_DIR$/Airport/LambdaExpressions7.2-Airport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employees/LambdaExpressions7.2-Employee.iml" filepath="$PROJECT_DIR$/Employees/LambdaExpressions7.2-Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/homework_7.2.iml" filepath="$PROJECT_DIR$/.idea/homework_7.2.iml" />
+    </modules>
+  </component>
+</project>
